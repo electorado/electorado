@@ -1,6 +1,9 @@
-# 👋 ¡Hola! Soy Pablo Moncayo Vega 
+# 👋 ¡Hola! Soy  
 ![bannergh](https://github.com/user-attachments/assets/59242f6a-aea2-4689-9867-375812a1c652)
-Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (FP DAM)** y me estoy especializando en **Análisis de Datos** y **Programación en Python y SQL**.  
+
+---
+
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (FP DAM)** y me estoy especializando en **Análisis de Datos** y **Programación en Python y SQL**.  
 
 💡  Durante años, he trabajado transformando ingredientes en experiencias memorables. Ahora estoy dando mis primeros pasos en el mundo de la programación y el análisis de datos, aplicando esos mismos principios para transformar información en conocimiento  
 
