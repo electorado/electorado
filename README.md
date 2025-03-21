@@ -1,5 +1,5 @@
-# 👋 ¡Hola! Soy Pablo Moncayo Vega  
-
+# 👋 ¡Hola! Soy Pablo Moncayo Vega 
+![Banner](https://github.com/electorado/electorado/blob/main/banner%20chulo.jpg)
 Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (FP DAM)** y me estoy especializando en **Análisis de Datos** y **Programación en Python y SQL**.  
 
 💡  Durante años, he trabajado transformando ingredientes en experiencias memorables. Ahora estoy dando mis primeros pasos en el mundo de la programación y el análisis de datos, aplicando esos mismos principios para transformar información en conocimiento  
