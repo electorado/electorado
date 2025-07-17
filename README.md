@@ -5,7 +5,7 @@
 
 💡  Estudiante de **Desarrollo de Aplicaciones Multiplataforma (FP DAM)**, me estoy especializando en **Análisis de Datos** y **Programación en Python y SQL**.  
 
-💡  Durante años, he trabajado transformando ingredientes en experiencias memorables. Ahora estoy dando mis primeros pasos en el mundo de la programación y el análisis de datos, aplicando esos mismos principios para transformar información en conocimiento  
+💡  Durante años, me he dedicado a seleccionar ingredientes además de comprender sus costumbres para convertirlos en experiencias gastronómicas coherentes. Ahora estoy dando mis primeros pasos en el mundo de la programación y el análisis de datos, aplicando esos mismos principios para transformar información en conocimiento  
 
 ---
 
