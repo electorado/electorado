@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy  
-![bannergh](https://github.com/user-attachments/assets/59242f6a-aea2-4689-9867-375812a1c652)
+![bannergh](BANNERGITHUB.png)
 
 ---
 
